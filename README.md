@@ -10,7 +10,7 @@
 * Flexbox
 
 ## Deploy e Layout 🖥
-Você pode conferir o projeto aqui:  <br>
+Você pode conferir o projeto [aqui](https://culturama-giulianasantana.vercel.app/) <br>
 [Layout base](https://www.figma.com/file/mC6DmuXPGWHYkMWOQD3khm/2713---Praticando-CSS%3A-Grid-e-Flexbox?type=design&node-id=79-289&mode=design&t=hSE4HRDfqjuij8Bc-0)
 
 
